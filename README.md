@@ -59,7 +59,7 @@ Config.Debug = false          -- Enable performance logs
 -- Customize your notifications
 Config.Notifications = {
     success = 'Job switched successfully!',
-    noSecondJob = 'You don\'t have a second job!',
+    noSecondJob = 'You don't have a second job!',
     cooldown = 'Please wait %s seconds!',
     error = 'Error switching jobs!'
 }
